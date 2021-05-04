@@ -1,0 +1,10 @@
+What's the idea of Big-O?
+    - Measure the performance (worst-case scenario) of an algorithm.
+    - Helps measure optimization in a standardized way.
+
+Who Cares?
+    - A precise vocab is important. It helps us understand and explain problems
+    - Allows better discussion on trade-offs
+    - Helps us identify pain points in code to improve performance.
+    - Bonus: it comes up in interviews
+
