@@ -8,3 +8,11 @@ Who Cares?
     - Helps us identify pain points in code to improve performance.
     - Bonus: it comes up in interviews
 
+How do we measure Big-O?
+    - We measure it in number of operations FOR WORST CASE SCENARIO
+    - "Algorithm is O(f(n)) if the number of simple operations the computer
+    has to do is eventually less than a constant times f(n), as n increases"
+        - f(n) could be linear, (f(n) = n), see O(n)
+        - f(n) could be quadratic, (f(n) = n^2), see O(n^2)
+        - f(n) could be constant, (f(n) - 1), see O(1)
+        - this is not an all encompassing list (see more in examples)
